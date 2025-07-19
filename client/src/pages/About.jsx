@@ -87,5 +87,7 @@ const About = () => {
     </div>
   );
 };
+// soon a menu will be added in this section for the convienece of the students
+// This will be used to display the menu of the day
 
 export default About;
